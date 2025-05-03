@@ -20,4 +20,4 @@ Este é um projeto desenvolvido para calcular o saldo de partidas ranqueadas com
 ## 📖 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/jairsisconeto/seu-repositorio.git
+   git clone https://github.com/jairsisconeto/calculadora-partidas-rankeadas
