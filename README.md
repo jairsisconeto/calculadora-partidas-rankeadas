@@ -1,3 +1,6 @@
+![Imagem calculadora de partidas rankeadas](https://github.com/user-attachments/assets/001adeac-ff23-4d62-861b-5c5e03a3a9e8)
+
+
 # 🏆 Calculadora de Partidas Rankeadas
 
 ## 📌 Sobre o Projeto
